@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
+using namespace std;
 int main ()
 {
-    printf("This is a short C program");
-    return 0;
+    court<<"This is a short c program\n";
+return 0;
 }
